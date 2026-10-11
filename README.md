@@ -76,12 +76,12 @@ A web application for publishing and reading articles, with user authentication,
 ## `04` — GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osama1620&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Statistics" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama1620&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BinNady&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Statistics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinNady&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Osama1620&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" width="75%" />
+  <img src="https://streak-stats.demolab.com/?user=BinNady&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" width="75%" />
 </p>
 
 ---
@@ -94,11 +94,11 @@ A web application for publishing and reading articles, with user authentication,
   <a href="https://www.linkedin.com/in/osama-nady-32b7b6302/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Osama1620">
+  <a href="https://github.com/BinNady">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Osama1620&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BinNady&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
   <br/><br/>
   <b>Code. Learn. Build. Repeat.</b>
   <br/>
