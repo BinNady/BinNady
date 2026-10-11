@@ -98,7 +98,9 @@ A web application for publishing and reading articles, with user authentication,
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=BinNady&color=8B5CF6&style=flat-square" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BinNady&color=8B5CF6&style=flat-square" alt="Profile Views" />
+</p>
   <br/><br/>
   <b>Code. Learn. Build. Repeat.</b>
   <br/>
