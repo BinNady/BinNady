@@ -75,38 +75,34 @@ A web application for publishing and reading articles, with user authentication,
 
 ## `04` — GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osama1620&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Statistics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama1620&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" width="49%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Osama1620&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Statistics" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama1620&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" width="49%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Osama1620&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" width="75%"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Osama1620&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" width="75%" />
+</p>
 
 ---
 
 ## `05` — Let's Connect
 
-<div align="center">
+<p align="center">
+  <b>Interested in web development or building something useful together?</b>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/osama-nady-32b7b6302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Osama1620">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Osama1620&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/><br/>
+  <b>Code. Learn. Build. Repeat.</b>
+  <br/>
+  <i>Turning ideas into real products, one commit at a time.</i>
+</p>
 
-**Interested in web development or building something useful together?**
-
-<a href="https://www.linkedin.com/in/osama-nady-32b7b6302/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/Osama1620"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Osama1620&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
-### Code. Learn. Build. Repeat.
-
-*Turning ideas into real products, one commit at a time.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:512BD4,100:0D1117&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:512BD4,100:0D1117&height=100&section=footer" width="100%" alt="Footer" />
