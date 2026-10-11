@@ -77,11 +77,13 @@ A web application for publishing and reading articles, with user authentication,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Osama1620&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" width="49%" alt="GitHub Statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama1620&layout=compact&theme=midnight-purple&hide_border=true" width="49%" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Osama1620&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Statistics" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama1620&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" width="49%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Osama1620&theme=midnight-purple&hide_border=true" width="75%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Osama1620&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" width="75%"/>
 
 </div>
 
@@ -89,15 +91,17 @@ A web application for publishing and reading articles, with user authentication,
 
 ## `05` — Let's Connect
 
-Interested in web development, collaboration, or building something useful together?
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/osama-nady-32b7b6302/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a> <a href="https://github.com/Osama1620"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+**Interested in web development or building something useful together?**
+
+<a href="https://www.linkedin.com/in/osama-nady-32b7b6302/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/Osama1620"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Osama1620&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
 
 ### Code. Learn. Build. Repeat.
 
