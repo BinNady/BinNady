@@ -67,12 +67,13 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Osama1620/simple-blog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Osama1620&repo=simple-blog&theme=midnight-purple&hide_border=true" alt="Simple Blog Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Osama1620&repo=simple-blog&theme=midnight-purple&hide_border=true" alt="Simple Blog Repository" />
 </a>
 
 </div>
@@ -83,13 +84,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Osama1620&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Osama1620&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" height="180" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama1620&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama1620&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" height="180" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Osama1620&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Osama1620&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
